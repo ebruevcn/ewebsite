@@ -1,0 +1,1 @@
+{"version":2,"defects":[],"times":{"Tests\\Unit\\ExampleTest::test_that_true_is_true":0.003,"Tests\\Feature\\ExampleTest::test_home_page_loads":0.183,"Tests\\Feature\\ExampleTest::test_health_check_endpoint_responds":0.022}}
